@@ -1,9 +1,9 @@
 
 Hi there 👋, I'm Mojahid Islam
 
-🎓 Polytechnic Student (At Narsingdi Government Polytechnic Institute)
-💻 Aspiring Software Engineer.
-🌐 Currently learning Full Stack Web Development (MERN Stack) from Programming Hero
+🎓 Polytechnic Student (At Narsingdi Government Polytechnic Institute)                                                                                                                    
+💻 Aspiring Software Engineer.                                                                                                                                                            
+🌐 Currently learning Full Stack Web Development (MERN Stack) from Programming Hero                                                                                                       
 🔐 Interested in Networking & Cyber Security
 
 ---
