@@ -1,5 +1,27 @@
-# 💫 About Me:
-My name is Mojahid Islam, and I am a Computer Science student at Narsingdi Polytechnic Institute in the Computer Science and Technology department. I am passionate about technology and dream of becoming a skilled software engineer. I enjoy learning programming and creating new projects to improve my skills. Besides studying, I also make educational videos to share knowledge and inspire others to learn.
+
+Hi there 👋, I'm Mojahid Islam
+
+🎓 Polytechnic Student (At Narsingdi Government Polytechnic Institute)
+💻 Aspiring Software Engineer.
+🌐 Currently learning Full Stack Web Development (MERN Stack) from Programming Hero
+🔐 Interested in Networking & Cyber Security
+
+---
+
+## 🚀 About Me
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Next js
+- 🔭 I’m working on improving my Frontend & Backend skills
+- 🎯 Goal: Become a skilled Full Stack Developer
+- 🧠 Future Plan: Learn Cyber Security & Networking
+- ⚡ Fun fact: I love exploring new technologies
+
+---
+
+## 🛠️ Skills
+- 🌐 HTML | CSS | Tailwind CSS
+- ⚡ JavaScript (ES6+)
+- ⚛️ React.js (Learning)
+- 🛢️ MongoDB | Node.js | Express.js (Upcoming)
 
 
 ## 🌐 Socials:
